@@ -173,9 +173,6 @@ export default function TicTacToeApp() {
           </ol>
         </aside>
       </main>
-      <footer style={{ marginTop: '20px' }}>
-        Pro tip: Try to create a fork where the AI plays optimally!
-      </footer>
     </div>
   );
 }
